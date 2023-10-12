@@ -1,0 +1,192 @@
+.question {
+  width: 100vw;
+  height: 100vh;
+  background: #000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.f-but {
+  display: block;
+  width: 30%;
+  height: 15%;
+  background-color: #e7913b;
+  border-radius: 1em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #000;
+  font-weight: 700;
+  font-size: 1.2em;
+  -webkit-transition: all 1s ease 0s;
+  transition: all 1s ease 0s;
+}
+.f-but:hover {
+  -webkit-transform: scale3d(1.12, 1.12, 1.12);
+          transform: scale3d(1.12, 1.12, 1.12);
+  -webkit-transition: all 1s ease 0s;
+  transition: all 1s ease 0s;
+}
+
+.variants {
+  width: 100vw;
+  height: 100vh;
+  background: #000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.main-s {
+  width: 60%;
+  height: 20%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.but-2 {
+  display: block;
+  width: 35%;
+  height: 80%;
+  background-color: #238b3f;
+  border-radius: 1em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #000;
+  font-weight: 700;
+  font-size: 1.4em;
+  -webkit-transition: all 1s ease 0s;
+  transition: all 1s ease 0s;
+}
+.but-2:hover {
+  -webkit-transform: scale3d(1.12, 1.12, 1.12);
+          transform: scale3d(1.12, 1.12, 1.12);
+  -webkit-transition: all 1s ease 0s;
+  transition: all 1s ease 0s;
+}
+
+.but-3 {
+  display: block;
+  width: 35%;
+  height: 80%;
+  background-color: #981616;
+  border-radius: 1em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #000;
+  font-weight: 700;
+  font-size: 1.4em;
+  -webkit-transition: all 1s ease 0s;
+  transition: all 1s ease 0s;
+}
+.but-3:hover {
+  -webkit-transform: scale3d(1.12, 1.12, 1.12);
+          transform: scale3d(1.12, 1.12, 1.12);
+  -webkit-transition: all 1s ease 0s;
+  transition: all 1s ease 0s;
+}
+
+.no {
+  width: 100vw;
+  height: 100vh;
+  background: #000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.main-th {
+  display: block;
+  width: 30%;
+  height: 15%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e7913b;
+  font-weight: 700;
+  font-size: 1.2em;
+}
+
+.yes {
+  width: 100vw;
+  height: 100vh;
+  background: #000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.main-fth {
+  display: block;
+  width: 30%;
+  height: 15%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e7913b;
+  font-weight: 700;
+  font-size: 1.2em;
+}
